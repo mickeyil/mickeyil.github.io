@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+My software engineering blog. Should get some content here soon... :)
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[mixi.il@gmail.com](mailto:mixi.il@gmail.com)
